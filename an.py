@@ -10,3 +10,6 @@ import json
 API_KEY = ''
 
 
+url = ''
+req_data = requests.get(url)
+

@@ -14,4 +14,21 @@ url = ''
 
 def data_join():
     req_data = requests.get(url)
+    req_data.json
+
+
+
+def new_data():
+
+
+
+def stategy_1():
+
+
+
+
+def stategy_2():
+
+
+
 

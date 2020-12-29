@@ -8,8 +8,12 @@ from os import path
 import time
 import json
 API_KEY = ''
-
-
 url = ''
-req_data = requests.get(url)
+
+
+
+def data_join():
+    req_data = requests.get(url)
+
+
 

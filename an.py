@@ -15,5 +15,3 @@ url = ''
 def data_join():
     req_data = requests.get(url)
 
-
-

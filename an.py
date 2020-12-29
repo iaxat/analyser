@@ -32,3 +32,14 @@ def stategy_2():
 
 
 
+def strategy_3():
+
+
+
+
+def results():
+
+
+
+
+
